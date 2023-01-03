@@ -1,7 +1,5 @@
 import "./App.css";
 import images from "./imagenes/images.jpg";
-import Tarea from './componentes/Tarea/Tarea'
-import TareaFormulario from './componentes/TareaFormulario/TareaFormulario'
 import ListaDeTareas from './componentes/ListaDeTareas/ListaDeTareas'
 
 
